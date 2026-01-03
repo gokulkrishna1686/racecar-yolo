@@ -1,0 +1,8 @@
+path: dataset
+
+train: images/train
+val: images/test
+
+names:
+  0: red_rc_car
+  1: blue_rc_car
